@@ -11,6 +11,6 @@ Objectives:
 2. What is "git add" command
 3. What is "git commit" command
 4. How to roll back to previous state
-5. Branches in Git
+5. Branches in Git and merge branches to master
 6. How to push files to Git Repo.
 
